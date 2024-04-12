@@ -176,10 +176,10 @@ h1 {
         flex-wrap: wrap;
     }
     .result {
-        width: 375px;
+        width: 100%;
     }
     .summary {
-        width: 375px;
+        width: 100%;
         margin-top: 15px;
     }
 }
