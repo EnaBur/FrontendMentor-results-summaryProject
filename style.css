@@ -131,7 +131,7 @@ h1 {
     justify-content: space-around;
 }
 
-#bold {
+.bold {
     font-weight: bold;
 }
 
@@ -164,7 +164,7 @@ h1 {
     background-color: hsl(240, 71.43%, 97.25%);
 }
 
-#pale {
+.pale {
     color: #949da2;
 }
 
